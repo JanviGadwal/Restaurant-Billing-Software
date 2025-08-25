@@ -1,0 +1,34 @@
+item_name,category,price,gst
+Pizza,Food,399,7
+Burger,Food,99,5
+Pasta,Food,99,5
+Cheese Garlic Bread,Food,109,6
+Cheese-Sandwich,Food,99,5
+Veggie loaded Sandwich,Food,149,5
+Veg-Momo,Food,49,0
+Kurkure-Momo,Food,149,0
+Paneer-Momo(Steamed),Food,89,0
+Paneer-Momo(Fried),Food,99,0
+Manchurian with Rice,Food,199,5
+Manchurian with Noodles,Food,199,5
+Haka Noodles,Food,120,0
+Veg Spring roll,Food,149,5
+Veg-Cheese Spring roll,Food,159,0
+Veg Kathi Roll,Food,79,5
+Veg Noodles Kathi Roll,Food,99,0
+Chilly Paneer,Food,199,5
+Peri-Peri Fries,Food,79,5
+Corn-Cheese Maggie,Food,59,0
+Vegetable Cheese Maggie,Food,79,0
+Veg Appe(Paniyaram),Food,49,5
+Cheese-Corn Appe,Food,59,5
+Veg-Cheese-Corn Appe,Food,79,5
+Monchaow Soup,Food,99,0
+Veg-Corn Soup,Food,99,5
+Iced-Tea,Drink,59,0
+Cold-Coffee,Drink,99,0
+Virgin Mojito,Drink,99,10
+
+    
+    
+    
