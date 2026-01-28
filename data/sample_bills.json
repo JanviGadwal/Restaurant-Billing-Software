@@ -2,18 +2,12 @@
     {
         "name": "Pizza",
         "price": 399,
-        "qty": 2,
+        "qty": 1,
         "gst": 7
     },
     {
-        "name": "Cheese-Sandwich",
+        "name": "Pasta",
         "price": 99,
-        "qty": 1,
-        "gst": 5
-    },
-    {
-        "name": "Veggie loaded Sandwich",
-        "price": 149,
         "qty": 1,
         "gst": 5
     },
@@ -24,21 +18,15 @@
         "gst": 0
     },
     {
-        "name": "Haka Noodles",
-        "price": 120,
+        "name": "Manchurian with Noodles",
+        "price": 199,
+        "qty": 1,
+        "gst": 5
+    },
+    {
+        "name": "Corn-Cheese Maggie",
+        "price": 59,
         "qty": 1,
         "gst": 0
-    },
-    {
-        "name": "Cold-Coffee",
-        "price": 99,
-        "qty": 2,
-        "gst": 0
-    },
-    {
-        "name": "Virgin Mojito",
-        "price": 99,
-        "qty": 2,
-        "gst": 10
     }
 ]
